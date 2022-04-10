@@ -1,0 +1,1 @@
+This is a file that is added by the one that is not the main of the repo + not in the team
